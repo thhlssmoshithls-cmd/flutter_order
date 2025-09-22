@@ -1,8 +1,5 @@
 ## Kelompok 6 Fluter order
-Nama: 1. Ajeng Maulida Puspita(362458392012)
-      2. Nisa EKa Kholifaturrizkiah(36245820218)
-      3. Lilis Thalisa(362458302020)
-      4. Siti Faiqotul Kifiyah(362458302021)
+Nama: 
 
 1. Register dan Login dapat membuat pengguna bisa membuat akun baru lalu login kemudian data akun hanya disimpan sementara dimemori(tidak menggunakan database).
 2. Halaman menu menampilkan daftar makanan & minuman.
