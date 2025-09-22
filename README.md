@@ -1,13 +1,16 @@
-## Flutter-Order Kelompok 6
-# Nama Anggota
+# Flutter-Order Kelompok 6 Mata Kuliah Pemrograman Perangkat Bergerak
+
+## Nama Anggota
 1. Ajeng Maulida Puspita (362458302012)
 2. Lilis Thalisa (362458302020)
 3. Nisa Eka Kholifaturrizkiah (362458302018)
 4. Siti Faiqotul Kifiyah (362458302021) 
-# Deskripsi Aplikasi
+
+## Deskripsi Aplikasi
 Project ini adalah mini project untuk mata kuliah Mobile Development. Tujuannya membuat aplikasi sederhana untuk pemesanan makanan & minuman menggunakan Flutter.
 Aplikasi ini mempunyai fitur utama: registrasi, login, lihat menu, tambah/kurang pesanan, jumlah pesanan, reset, sampai ringkasan transaksi.
-# Desain Aplikasi
+
+## Desain Aplikasi
 Ada 3 halaman utama, yaitu:
 1. Registrasi (Create Account):buat akun baru dengan data fullname, username, email, password.
 2. Login (Welcome Back) – login pakai username & password.
