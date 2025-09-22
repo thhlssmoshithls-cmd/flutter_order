@@ -1,9 +1,15 @@
-## Kelompok 6 Fluter order
-Nama: 
-
-1. Register dan Login dapat membuat pengguna bisa membuat akun baru lalu login kemudian data akun hanya disimpan sementara dimemori(tidak menggunakan database).
-2. Halaman menu menampilkan daftar makanan & minuman.
-   Dengan tombol + untuk menambah jumlah pesanan. tombol - untuk mengurangi jumlah pesanan, tombol Reset untuk menghapus semua pesanan, dan tombol Transaction untuk melihat ringkasan         pesanan.
-3. Ringkasan transaksi menampilka daftar pesanan yang sudah dipilih. dan menampilkan total harga keseluruham.
-4. 
-   
+## Flutter-Order Kelompok 6
+# Nama Anggota
+1. Ajeng Maulida Puspita (362458302012)
+2. Lilis Thalisa (362458302020)
+3. Nisa Eka Kholifaturrizkiah (362458302018)
+4. Siti Faiqotul Kifiyah (362458302021) 
+# Deskripsi Aplikasi
+Project ini adalah mini project untuk mata kuliah Mobile Development. Tujuannya membuat aplikasi sederhana untuk pemesanan makanan & minuman menggunakan Flutter.
+Aplikasi ini mempunyai fitur utama: registrasi, login, lihat menu, tambah/kurang pesanan, jumlah pesanan, reset, sampai ringkasan transaksi.
+# Desain Aplikasi
+Ada 3 halaman utama, yaitu:
+1. Registrasi (Create Account):buat akun baru dengan data fullname, username, email, password.
+2. Login (Welcome Back) – login pakai username & password.
+3. Menu (Menus) – daftar makanan/minuman, bisa tambah/kurang pesanan.
+4. Ringkasan Transaksi yang menunjukan item yang dipesan, jumlah, harga, subtotal, dan total harga keseluruhan.
