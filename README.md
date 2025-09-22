@@ -1,16 +1,7 @@
-# flutter_order
+#Kelompok 6 Fluter order
+Nama: 1. Ajeng Maulida Puspita(362458302012)
+      2. Nisa Eka Kholifaturrizkiah(362458302018)
+      3. Lilis Thalisa(362458302020)
+      4. Siti Faiqotul Kifiyah(362458302021)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Penjelasan Fitur-fitur
