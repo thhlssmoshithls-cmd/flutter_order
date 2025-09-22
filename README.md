@@ -9,4 +9,6 @@ Nama: 1. Ajeng Maulida Puspita(362458392012)
    Dengan tombol + untuk menambah jumlah pesanan. tombol - untuk mengurangi jumlah pesanan, tombol Reset untuk menghapus semua pesanan, dan tombol Transaction untuk melihat ringkasan         pesanan.
 3. Ringkasan transaksi menampilka daftar pesanan yang sudah dipilih. dan menampilkan total harga keseluruham.
 4. 
-   
+
+
+ ahhahdbd
