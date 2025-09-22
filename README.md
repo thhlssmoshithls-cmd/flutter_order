@@ -1,6 +1,6 @@
 ## Kelompok 6 Fluter order
-Nama: 1. Ajeng Maulida Puspita(362458302012)
-      2. Nisa Eka Kholifaturrizkiah(362458302018)
+Nama: 1. Ajeng Maulida Puspita(362458392012)
+      2. Nisa EKa Kholifaturrizkiah(36245820218)
       3. Lilis Thalisa(362458302020)
       4. Siti Faiqotul Kifiyah(362458302021)
 
